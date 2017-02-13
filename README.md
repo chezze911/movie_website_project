@@ -23,6 +23,7 @@ Clone the Repository
 Once you are sure Python 2.7 is installed correctly execute the following:
 
 $ git clone https://github.com/chezze911/movie_website_project
+
 $ cd movie_website_project
 
 Execute the program:
