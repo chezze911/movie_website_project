@@ -4,7 +4,7 @@ import re
 
 
 # Styles and scripting for the page
-# Added HEIGHT to MOVIE-TILE from original data because 
+# Added HEIGHT to MOVIE-TILE from original data because
 # it wasn't displaying correctly in full-page mode
 main_page_head = '''
 <!DOCTYPE html>
@@ -161,8 +161,6 @@ def create_movie_tiles_content(movies):
             movie_review_score=movie.review_score
         )
     return content
-
-
 
 
 def open_movies_page(movies):
