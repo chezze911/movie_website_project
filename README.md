@@ -33,7 +33,7 @@ $ cd movie_website_project
 
 Execute the program:
 
-$ python entertainment.py
+$ python entertainment_center.py
 
 A browser should open on your local machine and and render the HTML template with Chi's favorite movies. 
 Click on a movie thumbnail to view the trailer!
